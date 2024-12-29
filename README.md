@@ -23,25 +23,16 @@ Users retain full control of their saved files.
 
 ---
 
-4. **Children’s Privacy**  
-The **Status Saver - Status Download** app is not intended for use by children under the age of 13. We do not knowingly collect, solicit, or store any personal data from users in this age group.
-
----
-
-5. **User Responsibility**  
+4. **User Responsibility**  
 As a user, you are responsible for ensuring compliance with WhatsApp's terms of service and copyright policies when saving statuses. The app is a tool provided for personal use only.
 
 ---
 
-6. **Changes to This Policy**  
+5. **Changes to This Policy**  
 We may update this Privacy Policy from time to time. Any significant changes will be communicated to users via in-app notifications or updates to the app's listing on Google Play.
 
 ---
 
-7. **Contact Information**  
+6. **Contact Information**  
 For questions or concerns about this policy, please contact us:  
 Email: kamal.ayman522@gmail.com  
-
----
-
-The **MANAGE_EXTERNAL_STORAGE** permission has been completely removed from the app, and the app now uses compliant methods for managing and accessing media files. Let me know if you need further adjustments!
